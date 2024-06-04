@@ -1,4 +1,4 @@
-# Lapres-Jarkom-Modul-3-IT30-2024
+# Lapres-Jarkom-Modul-4-IT30-2024
 
 ## Anggota
 
@@ -16,8 +16,8 @@
 ### Tree Pembagian IP - VLSM
 
 ### Pembagian IP per node - VLSM
-| SUBNET  | NODE              | IP              | SUBNET MASK       | LENGTH |
-| ------- | ----------------- | --------------- | ----------------- | ------ |
+| SUBNET  | NODE              | IP              | SUBNET MASK     | LENGTH |
+| ------- | ----------------- | --------------- | --------------- | ------ |
 | `A1`    | JAWA              | 192.248.21.177  | 255.255.255.252 | |
 |         | SUMATERA          | 192.248.21.178  | 255.255.255.252 | |
 | `A2`    | SUMATERA          | 192.248.21.65   | 255.255.255.224 | |
@@ -33,62 +33,13 @@
 | `A5`    | ACEH              | 192.248.21.129  | 255.255.255.224 | |
 |         | SABANG            | 192.248.21.130  | 255.255.255.224 | |
 |         | LAMBARO           | 192.248.21.131  | 255.255.255.224 | |
-
-
-
-
-
-
-
-
-
-ACEH
-SABANG
-LAMBARO
-SUMATERA
-LAMPUNG
-LAMPUNG
-SEBESI
-SEBUKU
-JAWA
-KALIMANTAN
-KALIMANTAN
-KALIMANTAN-UTARA
-KALIMANTAN-UTARA
-SELIMAU
-KALIMANTAN-UTARA
-KALIMANTAN-TIMUR
-KALIMANTAN-TIMUR
-BANGKIRAI
-LAMARU
-KALIMANTAN-TIMUR
-KALIMANTAN-SELATAN
-KALIMANTAN-SELATAN
-ANGSANA
-KALIMANTAN-SELATAN
-BAJUIN
-TAKISUNG
-BATAKAN
-JAWA
-SULAWESI
-SULAWESI
-MALUKU-UTARA
-GORONTALO
-MARISA
-MALUKU-UTARA
-MALUKU
-MOROTAI
-TOBELO
-TERNATE
-SULAWESI
-BELAWA
-MAKASAR
-MAKASAR
-GALESONG
-TOPEJAWA-TAKALAR
-BELAWA
-MADINI
-BARU
+| `A6`    | SUMATERA          | 192.248.21.185  | 255.255.255.252 | |
+|         | LAMPUNG           | 192.248.21.186  | 255.255.255.252 | |
+| `A7`    | LAMPUNG           | 192.248.19.1    | 255.255.255.0   | |
+|         | SEBESI            | 192.248.19.2    | 255.255.255.0   | |
+|         | SEBUKU            | 192.248.19.3    | 255.255.255.0   | |
+| `A8`    | JAWA              | 192.248.21.189  | 255.255.255.252 | |
+|         | KALIMANTAN        | 192.248.21.190  | 255.255.255.252 | |
 
 
 ## TOPOLOGI GNS-CIDR
