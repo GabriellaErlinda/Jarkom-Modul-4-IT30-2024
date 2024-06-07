@@ -18,12 +18,12 @@
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/4912d299-18ab-4074-8549-ba491fc574dd)
 
 ## CPT-VLSM
-### Pembagian IP -VLSM
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/02c603cc-1c6d-48b5-89c0-8e3c0893f9f3)
-
 ### Tree -VLSM
 Subnet besar yang dibentuk memiliki network ID 192.248.0.0 dengan netmask /19, sehingga didapatkan pembagian IP sebagai berikut
 ![VLSM_Tree_IT30](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/abfcc842-1d6f-4128-bc7d-4615cfc58a89)
+
+### Pembagian IP -VLSM
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/02c603cc-1c6d-48b5-89c0-8e3c0893f9f3)
 
 ### Pembagian IP per node -VLSM
 | SUBNET  | NODE               | IP              | SUBNET MASK     |
