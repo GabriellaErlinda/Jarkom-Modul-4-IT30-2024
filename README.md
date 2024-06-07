@@ -109,43 +109,44 @@ Pada gambar di atas terlihat interface yang digunakan fa0/0 dengan IP `192.248.2
 
 ### Routing
 #### JAWA
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/17aea317-36f1-4789-b9fb-62b74409f73a)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/414cd8d3-3e36-44cc-a8f1-f109a46131cd)
 
 #### SUMATERA
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/55f6b3ee-d453-4592-8c54-08ecc23fd195)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/90b0870a-a4b0-4a68-a7d7-53e1280a45ca)
 
 #### SUMATERA-UTARA
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/b303762b-8ca9-46eb-8851-30b4774963c1)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/6a57b5f5-e6d6-49ca-a9e0-b5b69e9f4cb8)
 
 #### ACEH
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/0adb32c4-4c97-4494-8e16-f8a5121bfcbf)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/4c377fbe-2912-4066-920b-b95212efe392)
 
 #### LAMPUNG
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/8e1dc91d-01e3-4471-80f6-0308bd063cd2)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/a5284a76-161c-461c-b4b3-8b8809da5fef)
 
 #### KALIMANTAN
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/5db6edf9-836d-4e85-98a1-e0498ede0072)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/3f572b55-366a-4a46-a737-ede1d0aab69d)
 
 #### KALIMANTAN-UTARA
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/6cc92dea-3284-433e-98ce-9dc587837198)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/d06a7b44-387f-4e3b-8512-4259cba6b782)
 
 #### KALIMANTAN-TIMUR
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/cd5a6630-a9fa-4955-8124-8eab81c19e19)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/20aa16f1-e95a-44d9-b3e1-7053668ab556)
 
 #### KALIMANTAN-SELATAN
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/3cf60b14-47ed-4593-8991-c54484d9cd79)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/7341de1e-2e9f-4d05-9cf1-44642d4ca403)
 
 #### SULAWESI
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/b8ff4cbe-88a6-4114-9590-aea075d8b8bc)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/61003fcf-4f2a-4210-b4f7-95c7d0d83ccf)
 
 #### MAKASAR
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/4f761011-c49c-4f54-a242-a1989a9a51a7)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/74479c2f-cbd3-4df1-91ac-0c0ec4d5bfd7)
 
 #### BELAWA
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/fa442950-c6ed-4829-8a76-cd9311d07d2e)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/7fb6adbe-9c36-46d5-b401-2b9f393d4bf9)
 
 #### MALUKU-UTARA
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/0fe9a220-b822-4253-aeeb-3c866e3de7e9)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/a74a1fa5-84f5-474b-93c4-d0e3633cb0b8)
+
 
 ### Testing
 Baru > Sebuku
