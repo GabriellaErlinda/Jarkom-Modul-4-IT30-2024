@@ -179,6 +179,8 @@ Kalimantan Selatan yang terhubung ke Kalimantan Timur akan 'meminta' pembagian I
 #### Client to Client
 Berawang-Tampu > Ternate
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/dfdf48bb-b324-45fe-8cf2-846ec9dbe1af)
+Sabang > Angsana
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/d07c2566-f52f-4712-96f3-ab403d4b3ea9)
 
 #### Client to Router
 Berawang-Tampu > Sulawesi
