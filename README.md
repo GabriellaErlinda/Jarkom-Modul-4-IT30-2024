@@ -110,43 +110,70 @@ Pada gambar di atas terlihat interface yang digunakan fa0/0 dengan IP `192.248.2
 ### Routing
 #### JAWA
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/414cd8d3-3e36-44cc-a8f1-f109a46131cd)
+Jawa yang terkoneksi langsung ke NAT akan menjadi router yang mensortir dan meneruskan request yang masuk ke pulau yang dituju (Sumatera, Kalimantan, atau Sulawesi) 
 
 #### SUMATERA
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/90b0870a-a4b0-4a68-a7d7-53e1280a45ca)
+Sumatera sebagai router yang terkoneksi langsung ke Jawa akan mengarahkannya ke subnet yang terkoneksi pada Sumatera (A2, A3, A4, A5, A6, A7)
+- Routing subnet `192.248.21.180` (A3), `192.248.20.0` (A4), `192.248.21.187` (A5) dengan next hop ke Sumatera Utara (sesuai rute dari Jawa) 
+- Routing subnet `192.248.19.0` (A7) dengan next hop ke Lampung
+- Routing subnet `0.0.0.0` (A2) dengan next hop ke Jawa
 
 #### SUMATERA-UTARA
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/6a57b5f5-e6d6-49ca-a9e0-b5b69e9f4cb8)
+Sumatera Utara yang terkoneksi ke Sumatera akan menjadi 'jalan' untuk routing subnet A4 dan A5
+- Routing subnet `192.248.20.0` (A4) dan `192.248.21.187` (A5) dengan next hop ke Aceh
 
 #### ACEH
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/4c377fbe-2912-4066-920b-b95212efe392)
+Aceh yang terhubung ke Sumatera Utara akan 'meminta' pembagian IP
+- 0.0.0.0 berarti mengambil semua pesan dan diarahkan ke next hop Sumatera Utara
 
 #### LAMPUNG
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/a5284a76-161c-461c-b4b3-8b8809da5fef)
+Lampung yang terhubung ke Sumatera akan 'meminta' pembagian IP
+- 0.0.0.0 berarti mengambil semua pesan dan diarahkan ke next hop Sumatera 
 
 #### KALIMANTAN
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/3f572b55-366a-4a46-a737-ede1d0aab69d)
+Kalimantan sebagai router yang terkoneksi langsung ke Jawa akan mengarahkannya ke subnet yang terkoneksi pada Kalimantan (A8, A9, A10, A11, A12, A13, A14, A15)
+- Routing subnet `192.248.18.0` (A10), `192.248.21.196` (A11), `192.248.16.0` (A12), `192.248.21.200` (A13), `192.248.21.96` (A14), `192.248.0.0` (A15) dengan next hop ke Kalimantan Utara (sesuai rute dari Jawa) 
+- Routing subnet `0.0.0.0` dengan next hop ke Jawa
 
 #### KALIMANTAN-UTARA
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/d06a7b44-387f-4e3b-8512-4259cba6b782)
+Kalimantan Utara yang terkoneksi ke Kalimantan akan 'meminta' IP dari Kalimantan
+- Routing subnet `192.248.16.0` (A12), `192.248.21.200` (A13), `192.248.21.96` (A14), `192.248.0.0` (A15) dengan next hop ke Kalimantan Timur
+- Routing subnet `0.0.0.0` (A10) dengan next hop ke Kalimantan
 
 #### KALIMANTAN-TIMUR
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/20aa16f1-e95a-44d9-b3e1-7053668ab556)
+- Routing subnet `192.248.21.96` (A14) dan `192.248.0.0` (A15) dengan next hop ke Kalimantan Selatan
+- Routing subnet `0.0.0.0` (A12) dengan next hop ke Kalimantan Utara
 
 #### KALIMANTAN-SELATAN
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/7341de1e-2e9f-4d05-9cf1-44642d4ca403)
+Kalimantan Selatan yang terhubung ke Kalimantan Timur akan 'meminta' pembagian IP
+- `0.0.0.0` dengan next hop ke Kalimantan Timur 
 
 #### SULAWESI
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/61003fcf-4f2a-4210-b4f7-95c7d0d83ccf)
+- Routing subnet `192.248.8.0` (A18) dengan next hop ke Maluku Utara
+- Routing subnet `192.248.21.0` (A21) dengan next hop ke Belawa
+- Routing subnet `192.248.21.168` (A20) dengan next hop ke Makassar
+- Routing subnet `0.0.0.0` (A17) dengan next hop ke Jawa
 
 #### MAKASAR
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/74479c2f-cbd3-4df1-91ac-0c0ec4d5bfd7)
+`0.0.0.0` dengan next hop ke Sulawesi
 
 #### BELAWA
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/7fb6adbe-9c36-46d5-b401-2b9f393d4bf9)
+`0.0.0.0` dengan next hop ke Sulawesi
 
 #### MALUKU-UTARA
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/a74a1fa5-84f5-474b-93c4-d0e3633cb0b8)
-
+`0.0.0.0` dengan next hop ke Sulawesi
 
 ### Testing
 Baru > Sebuku
@@ -154,6 +181,8 @@ Baru > Sebuku
 
 Berawang-Tampu > Tobelo
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/696fee75-a952-4875-9ba3-70752a55ce07)
+
+
 
 ## GNS3
 ### Routing
