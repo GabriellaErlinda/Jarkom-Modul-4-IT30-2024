@@ -178,18 +178,21 @@ Kalimantan Selatan yang terhubung ke Kalimantan Timur akan 'meminta' pembagian I
 ### Testing
 #### Client to Client
 Berawang-Tampu > Ternate
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/dfdf48bb-b324-45fe-8cf2-846ec9dbe1af)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/ee9b37a0-1754-4be3-ac03-1654032e862e)
 Sabang > Angsana
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/d07c2566-f52f-4712-96f3-ab403d4b3ea9)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/6de4bb27-b3c8-47b6-bf9f-41ab43403e69)
 
 #### Client to Router
-Berawang-Tampu > Sulawesi
-Starland > Kalimantan-Selatan
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/94edba11-fbf7-433e-8789-c0cd37595165)
+Sabang > Maluku-Utara
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/a450e038-c262-4eb5-9701-fc7d94eac409)
+Samosir > Kalimantan-Timur
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/dbd36012-2373-43f7-ab6f-b109ae350d58)
 
 #### Router to Router
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/74dcbbcf-d821-4443-a39b-ffbfabcdc155)
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/6f977415-8796-480f-93a1-9ca4f447f8c6)
+Aceh > Maluku-Utara
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/646da103-b44f-49bc-96c3-0e478b70cc12)
+Lampung > Kalimantan-Selatan
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/b4995d72-71b7-499a-b6da-c324c10b45c8)
 
 
 ## GNS3-CIDR
