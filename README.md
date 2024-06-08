@@ -127,12 +127,12 @@ Sumatera Utara yang terkoneksi ke Sumatera akan menjadi 'jalan' untuk routing su
 #### ACEH
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/4c377fbe-2912-4066-920b-b95212efe392)
 Aceh yang terhubung ke Sumatera Utara akan 'meminta' pembagian IP
-- 0.0.0.0 berarti mengambil semua pesan dan diarahkan ke next hop Sumatera Utara
+- `0.0.0.0` berarti mengambil semua pesan dan diarahkan ke next hop Sumatera Utara
 
 #### LAMPUNG
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/a5284a76-161c-461c-b4b3-8b8809da5fef)
 Lampung yang terhubung ke Sumatera akan 'meminta' pembagian IP
-- 0.0.0.0 berarti mengambil semua pesan dan diarahkan ke next hop Sumatera 
+- `0.0.0.0` berarti mengambil semua pesan dan diarahkan ke next hop Sumatera 
 
 #### KALIMANTAN
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/3f572b55-366a-4a46-a737-ede1d0aab69d)
