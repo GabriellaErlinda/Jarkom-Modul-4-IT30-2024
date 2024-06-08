@@ -155,11 +155,10 @@ Baru > Sebuku
 Berawang-Tampu > Tobelo
 ![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/696fee75-a952-4875-9ba3-70752a55ce07)
 
-##GNS3
-###Routing
-####JAWA
-'''
-
+## GNS3
+### Routing
+#### JAWA
+```
 auto eth0
 iface eth0 inet dhcp
 
@@ -178,9 +177,10 @@ iface eth1 inet static
 	address 192.248.178.138
 	netmask 255.255.255.252
 
-'''
-####SUMATERA
-'''
+```
+
+#### SUMATERA
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.2.163
@@ -196,9 +196,10 @@ auto eth2
 iface eth2 inet static
 	address 192.248.2.162
 	netmask 255.255.255.252
-'''
-####LAMPUNG
-'''
+```
+
+#### LAMPUNG
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.2.160
@@ -209,9 +210,10 @@ auto eth1
 iface eth1 inet static
 	address 192.248.2.159
 	netmask 255.255.255.0
- '''
- ####SUMATERA-UTARA
- '''
+```
+
+#### SUMATERA-UTARA
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.1.130
@@ -222,9 +224,10 @@ auto eth1
 iface eth1 inet static
 	address 192.248.1.129
 	netmask 255.255.255.0
-'''
-####ACEH
-'''
+```
+
+#### ACEH
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.1.127
@@ -240,9 +243,10 @@ auto eth2
 iface eth2 inet static
 	address 192.248.1.127
 	netmask 255.255.255.0
-'''
-####KALIMANTAN-SELATAN
-'''
+```
+
+#### KALIMANTAN-SELATAN
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.93.31
@@ -258,9 +262,10 @@ auto eth2
 iface eth2 inet static
 	address 192.248.93.30
 	netmask 255.255.255.224
-'''
-####KALMIANTAN-TIMUR
-'''
+```
+
+#### KALMIANTAN-TIMUR
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.95.33
@@ -276,9 +281,10 @@ auto eth2
 iface eth2 inet static
 	address 192.248.95.32
 	netmask 255.255.254.0
-'''
-####KALIMANTAN-SELATAN
-'''
+```
+
+#### KALIMANTAN-SELATAN
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.96.35
@@ -294,9 +300,10 @@ auto eth2
 iface eth2 inet static
 	address 192.248.96.34
 	netmask 255.255.255.0
-'''
-####KALIMANTAN
-'''
+```
+
+#### KALIMANTAN
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.96.37
@@ -307,9 +314,10 @@ auto eth1
 iface eth1 inet static
 	address 192.248.96.36
 	netmask 255.255.240.0
-'''
-####BELAWA
-'''
+```
+
+#### BELAWA
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.170.68
@@ -320,9 +328,10 @@ auto eth1
 iface eth1 inet static
 	address 192.248.170.64
 	netmask 255.255.255.192
-'''
-####MAKASSAR
-'''
+```
+
+#### MAKASSAR
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.170.69
@@ -333,9 +342,10 @@ auto eth1
 iface eth1 inet static
 	address 192.248.170.68
 	netmask 255.255.255.128
-'''
-####MALUKU-UTARA
-'''
+```
+
+#### MALUKU-UTARA
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.178.73
@@ -346,9 +356,10 @@ auto eth1
 iface eth1 inet static
 	address 192.248.178.72
 	netmask 255.255.240.0
-'''
-####SULAWESI
-'''
+```
+
+#### SULAWESI
+```
 auto eth0
 iface eth0 inet static
 	address 192.248.178.136
@@ -364,4 +375,4 @@ auto eth2
 iface eth2 inet static
 	address 192.248.178.136
 	netmask 255.255.240.0
-'''
+```
