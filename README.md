@@ -176,15 +176,21 @@ Kalimantan Selatan yang terhubung ke Kalimantan Timur akan 'meminta' pembagian I
 `0.0.0.0` dengan next hop ke Sulawesi
 
 ### Testing
-Baru > Sebuku
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/0f8bbb0c-ba83-4902-8f40-f54b3e90e276)
+#### Client to Client
+Berawang-Tampu > Ternate
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/dfdf48bb-b324-45fe-8cf2-846ec9dbe1af)
 
-Berawang-Tampu > Tobelo
-![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/696fee75-a952-4875-9ba3-70752a55ce07)
+#### Client to Router
+Berawang-Tampu > Sulawesi
+Starland > Kalimantan-Selatan
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/94edba11-fbf7-433e-8789-c0cd37595165)
+
+#### Router to Router
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/74dcbbcf-d821-4443-a39b-ffbfabcdc155)
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/assets/128443451/6f977415-8796-480f-93a1-9ca4f447f8c6)
 
 
-
-## GNS3
+## GNS3-CIDR
 ### Routing
 #### JAWA
 ```
