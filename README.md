@@ -196,6 +196,7 @@ Lampung > Kalimantan-Selatan
 
 
 ## GNS3-CIDR
+![image](https://github.com/GabriellaErlinda/Jarkom-Modul-4-IT30-2024/blob/main/burek.png)
 ### Routing
 #### JAWA
 ```
